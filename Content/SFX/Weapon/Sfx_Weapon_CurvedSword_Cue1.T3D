@@ -1,0 +1,39 @@
+Begin Object Class=/Script/Engine.SoundCue Name="Sfx_Weapon_CurvedSword_Cue1" ExportPath="/Script/Engine.SoundCue'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1'"
+   Begin Object Class=/Script/Engine.SoundNodeWavePlayer Name="SoundNodeWavePlayer_0" ExportPath="/Script/Engine.SoundNodeWavePlayer'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundNodeWavePlayer_0'"
+   End Object
+   Begin Object Class=/Script/AudioEditor.SoundCueGraph Name="SoundCueGraph_0" ExportPath="/Script/AudioEditor.SoundCueGraph'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundCueGraph_0'"
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode_Root Name="SoundCueGraphNode_Root_0" ExportPath="/Script/AudioEditor.SoundCueGraphNode_Root'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundCueGraph_0.SoundCueGraphNode_Root_0'"
+      End Object
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode Name="SoundCueGraphNode_0" ExportPath="/Script/AudioEditor.SoundCueGraphNode'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundCueGraph_0.SoundCueGraphNode_0'"
+      End Object
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_0" ExportPath="/Script/Engine.SoundNodeWavePlayer'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundNodeWavePlayer_0'"
+      SoundWaveAssetPtr="/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword.Sfx_Weapon_CurvedSword"
+      GraphNode="/Script/AudioEditor.SoundCueGraphNode'Sfx_Weapon_CurvedSword_Cue1:SoundCueGraph_0.SoundCueGraphNode_0'"
+   End Object
+   Begin Object Name="SoundCueGraph_0" ExportPath="/Script/AudioEditor.SoundCueGraph'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundCueGraph_0'"
+      Begin Object Name="SoundCueGraphNode_Root_0" ExportPath="/Script/AudioEditor.SoundCueGraphNode_Root'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundCueGraph_0.SoundCueGraphNode_Root_0'"
+         NodePosY=-58
+         NodeGuid=CCE4C4474661C1EB350F82892AC9F033
+         CustomProperties Pin (PinId=721BFD30442D9AA5F2F7DEB69A498F1F,PinType.PinCategory="SoundNode",PinType.PinSubCategory="Root",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_0 6D60F7D04EFB0BC58C24D3ADFE49B424,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_0" ExportPath="/Script/AudioEditor.SoundCueGraphNode'/Game/CombatSystem/enemy_sfx/Sfx_Weapon_CurvedSword_Cue1.Sfx_Weapon_CurvedSword_Cue1:SoundCueGraph_0.SoundCueGraphNode_0'"
+         SoundNode="/Script/Engine.SoundNodeWavePlayer'Sfx_Weapon_CurvedSword_Cue1:SoundNodeWavePlayer_0'"
+         NodePosX=-429
+         NodeGuid=962C7E1C4F4BE2E3F9D2649C8BC2AC0E
+         CustomProperties Pin (PinId=6D60F7D04EFB0BC58C24D3ADFE49B424,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_Root_0 721BFD30442D9AA5F2F7DEB69A498F1F,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema="/Script/CoreUObject.Class'/Script/AudioEditor.SoundCueGraphSchema'"
+      Nodes(0)="/Script/AudioEditor.SoundCueGraphNode_Root'SoundCueGraphNode_Root_0'"
+      Nodes(1)="/Script/AudioEditor.SoundCueGraphNode'SoundCueGraphNode_0'"
+      bAllowDeletion=False
+      GraphGuid=2386EC3640A4DA61C7CFBBB3BEB9A9FE
+   End Object
+   FirstNode="/Script/Engine.SoundNodeWavePlayer'SoundNodeWavePlayer_0'"
+   VolumeMultiplier=0.700000
+   PitchMultiplier=0.900000
+   AllNodes(0)="/Script/Engine.SoundNodeWavePlayer'SoundNodeWavePlayer_0'"
+   SoundCueGraph="/Script/AudioEditor.SoundCueGraph'SoundCueGraph_0'"
+   Duration=1.574127
+   MaxDistance=2097152.000000
+End Object
