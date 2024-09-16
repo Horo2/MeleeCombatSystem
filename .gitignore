@@ -72,3 +72,26 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json
+Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json
+Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json
+Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json
+Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json
+Windows/Engine/Content/Renderer/TessellationTable.bin
+Windows/Engine/Content/Slate/Cursor/invisible.cur
+Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Windows/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Windows/Manifest_DebugFiles_Win64.txt
+Windows/Manifest_NonUFSFiles_Win64.txt
+Windows/Manifest_UFSFiles_Win64.txt
+Windows/MeleeCombatSystem/Binaries/Win64/MeleeCombatSystem.pdb
+Windows/MeleeCombatSystem/Binaries/Win64/tbb.pdb
+Windows/MeleeCombatSystem/Binaries/Win64/tbbmalloc.pdb
+Windows/MeleeCombatSystem/Content/Paks/global.ucas
+Windows/MeleeCombatSystem/Content/Paks/global.utoc
+Windows/MeleeCombatSystem/Content/Paks/MeleeCombatSystem-Windows.pak
+Windows/MeleeCombatSystem/Content/Paks/MeleeCombatSystem-Windows.ucas
+Windows/MeleeCombatSystem/Content/Paks/MeleeCombatSystem-Windows.utoc
