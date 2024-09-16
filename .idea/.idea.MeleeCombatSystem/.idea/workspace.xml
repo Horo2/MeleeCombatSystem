@@ -12,18 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39b6c567-b0df-457d-9a1a-efbc614abf6a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/CombatSystem/AI/NPC/BP_NPC_NavigationLinks.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/MeleeCombatSystem/CustomNavLinkProxy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/MeleeCombatSystem/CustomNavLinkProxy.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MeleeCombatSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MeleeCombatSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/CombatSystem/AI/BP_JumpingCurve.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CombatSystem/AI/BP_JumpingCurve.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/CombatSystem/AI/test_A.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CombatSystem/AI/test_A.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/Level_3.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Level_3.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeleeCombatSystem.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/MeleeCombatSystem.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MeleeCombatSystem/MeleeCombatSystem.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MeleeCombatSystem/MeleeCombatSystem.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MeleeCombatSystem/MyClass.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MeleeCombatSystem/MyClass.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CombatSystem/Menu/MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CombatSystem/Menu/MainMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Level_1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Level_1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MainMenu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MainMenu.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MeleeCombatSystem/CustomNavLinkProxy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MeleeCombatSystem/CustomNavLinkProxy.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;C++ 项目.MeleeCombatSystem.executor&quot;: &quot;Debug&quot;,
+    &quot;C++ 项目.MeleeCombatSystem.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -509,6 +503,8 @@
       <workItem from="1726368283825" duration="102000" />
       <workItem from="1726368395876" duration="2074000" />
       <workItem from="1726371318173" duration="42000" />
+      <workItem from="1726517051826" duration="233000" />
+      <workItem from="1726517336560" duration="372000" />
     </task>
     <servers />
   </component>
